@@ -1,3 +1,6 @@
+title: Webrat, Selenium, and Unobtrusive Javascript
+gradient-colors: #0e1f5b #3b5998
+
 # Webrat & Unintrusive JS #
 
 # Rails Testing #
