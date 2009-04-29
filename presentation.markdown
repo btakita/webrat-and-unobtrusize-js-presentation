@@ -23,7 +23,7 @@
 * Controller Tests
 
   * Single action
-  * Only the rendered html (in test::unit by default and if integrate_views is on in rspec)
+  * Only the rendered html
   * Easy to TDD
   * Comprehensive
   * Boiler-plate tests mixed with more interesting tests
@@ -70,5 +70,5 @@
 * Less Selenium tests
   * Most use cases covered
 * More focused Controller Tests
-  * integrate_views not needed as often
+  * integrate\_views not needed as often
   * Less boiler-plate tests (more focus on interesting logic)
